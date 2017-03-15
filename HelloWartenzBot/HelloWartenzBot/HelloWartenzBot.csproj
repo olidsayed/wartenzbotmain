@@ -127,6 +127,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\sasas.pubxml" />
+    <None Include="Properties\PublishProfiles\ssasa.pubxml" />
+    <None Include="Properties\PublishProfiles\wartenz.pubxml" />
+    <None Include="Properties\PublishProfiles\wartenzbot.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
